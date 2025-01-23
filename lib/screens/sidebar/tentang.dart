@@ -65,7 +65,6 @@ class TentangScreen extends StatelessWidget {
                   _buildInfoCard(
                     'Pengembang',
                     'BangJepp56\n'
-                    'MbakSelvi\n'
                     'Terakhir diperbarui: 13 Januari 2025',
                   ),
                   const SizedBox(height: 16),
@@ -73,13 +72,6 @@ class TentangScreen extends StatelessWidget {
                     'Kontak',
                     'Email: BangJepp56@gmail.com\n'
                     'GitHub: github.com/BangJepp56',
-                  ),
-
-                  const SizedBox(height: 16),
-                  _buildInfoCard(
-                    'Kontak',
-                    'Email: shelviabae@gmail.com\n'
-                    'GitHub: github.com/mbakselvi06',
                   ),
                   const SizedBox(height: 16),
                   _buildInfoCard(
