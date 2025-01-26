@@ -1,6 +1,6 @@
 # utang
-
-A new Flutter project.
+Utang - Aplikasi Manajemen Utang
+Proyek ini adalah aplikasi berbasis Flutter untuk membantu pengguna dalam mencatat, mengelola, dan melacak utang-piutang dengan mudah. Aplikasi ini dirancang untuk memberikan solusi yang praktis dan intuitif dalam mengelola keuangan, terutama terkait utang.
 
 ## Getting Started
 
